@@ -4,5 +4,5 @@ This program shows the animation of generation of a spiral based on the input nu
 
 Screenshots of the Spiral generated -
 
-![image](../master/Spiral animation/Spiral.png)
+![image](../master/Spiral.png)
 
