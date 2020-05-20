@@ -3,5 +3,5 @@
 This program shows the animation of generation of a spiral based on the input number for number of turns.
 
 Screenshots of the Spiral generated -
-![image](../master/Spiral.png)
+![image](../master/Spiral animation/Spiral.png)
 
