@@ -1,4 +1,4 @@
-# code-repo
+# Code-repository
 
 Sample codes of various concepts in programming and some cool tryouts.
 
