@@ -30,7 +30,7 @@ int main() {
 
 	fin.close();
 	std::cout <<std::endl<< "Output" << std::endl;
-	system("SearchFile.py");
+	system("SearchFile.py");		//Executes the written python script
 
 	_getch();
 }
