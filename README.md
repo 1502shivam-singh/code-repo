@@ -5,35 +5,35 @@ Uptill now
 
 <ul>
   <li>
-    <strong>Coloured lights</strong>
-    <p>Displays a disco light kind of efect in console</p>
+    <h3>Coloured lights</h3>
+    Displays a disco light kind of efect in console
   </li>
   <li>
-    Function pointers
+    <h3>Function pointers</h3>
     <p></p>
   </li>
   <li>
-    Matrix multiplication
+    <h3>Matrix multiplication</h3>
     <p></p>
   </li>
   <li>
-    Perfect number
+    <h3>Perfect number</h3>
     <p></p>
   </li>
   <li>
-    PyScripter
+    <h3>PyScripter</h3>
     <p></p>
   </li>
   <li>
-    Spiral animation
+    <h3>Spiral animation</h3>
     <p></p>
   </li>
   <li>
-    First day of that year
+    <h3>First day of that year</h3>
     <p></p>
   </li>
   <li>
-    e powers approximated
+    <h3>e powers approximated</h3>
     <p></p>
   </li>
 </ul>
