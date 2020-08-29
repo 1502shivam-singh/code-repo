@@ -30,7 +30,7 @@ Uptill now
   </li>
 </ul>
 
-Basic to advanced codes coming up -- <strong>C, C++, Javascript, Python</strong>.
+
 
 
 
