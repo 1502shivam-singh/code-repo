@@ -1,6 +1,6 @@
 # Code-repository
 
-Sample codes of various concepts in programming and some cool tryouts.<br>
+Sample codes of various concepts in programming and some cool projects.<br>
 Uptill now
 
 <ul>
